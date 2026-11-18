@@ -27,7 +27,7 @@ require (
 	github.com/miekg/dns v1.1.62 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/projectdiscovery/blackrock v0.0.2 // indirect
-	github.com/projectdiscovery/hmap v0.0.104 // indirect
+	github.com/projectdiscovery/hmap v0.0.105 // indirect
 	github.com/projectdiscovery/networkpolicy v0.1.58 // indirect
 	github.com/projectdiscovery/retryabledns v1.0.118 // indirect
 	github.com/refraction-networking/utls v1.8.2 // indirect
